@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D5034CF324314E0A00337AC4 /* Delm-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = D5034CF224314E0A00337AC4 /* Delm-Medium.otf */; };
+		D5034CF524314E7E00337AC4 /* ThirstySoftRegular 23-42-34-815.otf in Resources */ = {isa = PBXBuildFile; fileRef = D5034CF424314E7E00337AC4 /* ThirstySoftRegular 23-42-34-815.otf */; };
 		D59A2406242D2F510096B91F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D59A2405242D2F510096B91F /* AppDelegate.swift */; };
 		D59A2408242D2F510096B91F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D59A2407242D2F510096B91F /* SceneDelegate.swift */; };
 		D59A240A242D2F510096B91F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D59A2409242D2F510096B91F /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D5034CF224314E0A00337AC4 /* Delm-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Delm-Medium.otf"; sourceTree = "<group>"; };
+		D5034CF424314E7E00337AC4 /* ThirstySoftRegular 23-42-34-815.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ThirstySoftRegular 23-42-34-815.otf"; sourceTree = "<group>"; };
 		D59A2402242D2F510096B91F /* TEST-PROJET4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "TEST-PROJET4.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D59A2405242D2F510096B91F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D59A2407242D2F510096B91F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,7 +65,9 @@
 				D59A2409242D2F510096B91F /* ViewController.swift */,
 				D59A240B242D2F510096B91F /* Main.storyboard */,
 				D59A240E242D2F520096B91F /* Assets.xcassets */,
+				D5034CF224314E0A00337AC4 /* Delm-Medium.otf */,
 				D59A2410242D2F520096B91F /* LaunchScreen.storyboard */,
+				D5034CF424314E7E00337AC4 /* ThirstySoftRegular 23-42-34-815.otf */,
 				D59A2413242D2F520096B91F /* Info.plist */,
 			);
 			path = "TEST-PROJET4";
@@ -126,7 +132,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				D59A2412242D2F520096B91F /* LaunchScreen.storyboard in Resources */,
+				D5034CF524314E7E00337AC4 /* ThirstySoftRegular 23-42-34-815.otf in Resources */,
 				D59A240F242D2F520096B91F /* Assets.xcassets in Resources */,
+				D5034CF324314E0A00337AC4 /* Delm-Medium.otf in Resources */,
 				D59A240D242D2F510096B91F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
