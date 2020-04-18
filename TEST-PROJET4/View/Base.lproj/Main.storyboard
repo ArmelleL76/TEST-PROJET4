@@ -108,6 +108,7 @@
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5HW-vC-8oD">
                                                                 <rect key="frame" x="155.5" y="0.0" width="135.5" height="135.5"/>
                                                                 <color key="backgroundColor" red="0.95680469274520874" green="0.95483249425888062" blue="0.93723493814468384" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <state key="normal" image="Plus"/>
                                                             </button>
                                                         </subviews>
