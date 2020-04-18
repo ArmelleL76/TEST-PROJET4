@@ -71,16 +71,16 @@
                                                     </button>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Pq6-ca-mlR">
                                                         <rect key="frame" x="110" y="0.0" width="100" height="100"/>
-                                                        <state key="normal" title="Button" backgroundImage="Layout 2"/>
+                                                        <state key="normal" backgroundImage="Layout 2"/>
                                                     </button>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="h4R-VA-sWI">
                                                         <rect key="frame" x="220" y="0.0" width="100" height="100"/>
-                                                        <state key="normal" title="Button" backgroundImage="Layout 3"/>
+                                                        <state key="normal" backgroundImage="Layout 3"/>
                                                     </button>
                                                 </subviews>
                                             </stackView>
                                         </subviews>
-                                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                                        <color key="backgroundColor" red="0.71769154069999996" green="0.84272629020000001" blue="0.89316302540000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <constraints>
                                             <constraint firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="1IM-SH-opb" secondAttribute="trailing" id="925-84-7Ax"/>
                                             <constraint firstAttribute="bottom" secondItem="1IM-SH-opb" secondAttribute="bottom" id="Q69-WB-k2T"/>
@@ -100,13 +100,15 @@
                                                         <subviews>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8fG-oG-ZmO">
                                                                 <rect key="frame" x="0.0" y="0.0" width="135.5" height="135.5"/>
-                                                                <color key="backgroundColor" red="1" green="0.80000000000000004" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                                                <state key="normal" title="Button"/>
+                                                                <color key="backgroundColor" red="0.95680469274520874" green="0.95483249425888062" blue="0.93723493814468384" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                                <state key="normal" image="Plus">
+                                                                    <color key="titleShadowColor" red="0.95680469274520874" green="0.95483249425888062" blue="0.93723493814468384" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                                </state>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5HW-vC-8oD">
                                                                 <rect key="frame" x="155.5" y="0.0" width="135.5" height="135.5"/>
-                                                                <color key="backgroundColor" red="1" green="0.80000000000000004" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                                                <state key="normal" title="Button"/>
+                                                                <color key="backgroundColor" red="0.95680469274520874" green="0.95483249425888062" blue="0.93723493814468384" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                                <state key="normal" image="Plus"/>
                                                             </button>
                                                         </subviews>
                                                     </stackView>
@@ -115,13 +117,13 @@
                                                         <subviews>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WzU-Cj-3Yj">
                                                                 <rect key="frame" x="0.0" y="0.0" width="135.5" height="135.5"/>
-                                                                <color key="backgroundColor" red="1" green="0.80000000000000004" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                                                <state key="normal" title="Button"/>
+                                                                <color key="backgroundColor" red="0.95680469274520874" green="0.95483249425888062" blue="0.93723493814468384" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                                <state key="normal" image="Plus"/>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="U4U-cU-bxo">
                                                                 <rect key="frame" x="155.5" y="0.0" width="135.5" height="135.5"/>
-                                                                <color key="backgroundColor" red="1" green="0.80000000000000004" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                                                <state key="normal" title="Button"/>
+                                                                <color key="backgroundColor" red="0.95680469274520874" green="0.95483249425888062" blue="0.93723493814468384" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                                <state key="normal" image="Plus"/>
                                                             </button>
                                                         </subviews>
                                                     </stackView>
@@ -139,7 +141,7 @@
                                         </constraints>
                                     </view>
                                 </subviews>
-                                <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                                <color key="backgroundColor" red="0.71769154069999996" green="0.84272629020000001" blue="0.89316302540000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstItem="cNY-QR-G7y" firstAttribute="top" relation="greaterThanOrEqual" secondItem="G7U-B9-RyP" secondAttribute="top" id="2bA-de-vLw"/>
                                     <constraint firstItem="84T-Zb-FeV" firstAttribute="height" secondItem="G7U-B9-RyP" secondAttribute="height" multiplier="0.8" id="BN7-en-bkd" userLabel="View.height = 0,8 x height"/>
@@ -196,5 +198,6 @@
         <image name="Layout 1" width="27" height="27"/>
         <image name="Layout 2" width="27" height="27"/>
         <image name="Layout 3" width="27" height="27"/>
+        <image name="Plus" width="13.5" height="13.5"/>
     </resources>
 </document>
